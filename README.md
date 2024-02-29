@@ -13,5 +13,3 @@
 ## To run the server click any html and open it in a Live Server
 
 ### If you don't have Live Sass Compiler and Live Server download it as an extension in the extension pack of VS code
-
-#### Copyright © Final-Project-ITOS322-T-Repository 2023
